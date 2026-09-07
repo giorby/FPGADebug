@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.9 -->
+<!-- CreationDate: 2026-09-07 19:15:56 -->
+<!-- Magnification: 1 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="423pt" height="361pt"
+	viewBox="4488 3856 7040 6013">
+<g fill="none">
+<!-- Line -->
+<polyline points=" 8400,3900 8400,9825"
+	stroke="#00d100" stroke-width="45px" stroke-dasharray="60 60"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp0">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 5285,9180 5285,8820 5015,8915 5015,9086z"/>
+</clipPath>
+</defs>
+<polyline points=" 6300,9000 5100,9000" clip-path="url(#cp0)"
+	stroke="#87cfff" stroke-width="165px"/>
+<!-- Forward arrow to point 5100,9000 -->
+<polygon points=" 5285,8820 5105,9000 5285,9180 5285,8820"
+	stroke="#87cfff" stroke-width="8px" stroke-miterlimit="8" fill="#87cfff"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp1">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 7085,8880 7085,8520 6815,8615 6815,8786z"/>
+</clipPath>
+</defs>
+<polyline points=" 9900,9000 9300,9000 9000,8700 6900,8700" clip-path="url(#cp1)"
+	stroke="#87cfff" stroke-width="165px"/>
+<!-- Forward arrow to point 6900,8700 -->
+<polygon points=" 7085,8520 6905,8700 7085,8880 7085,8520"
+	stroke="#87cfff" stroke-width="8px" stroke-miterlimit="8" fill="#87cfff"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp2">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 7085,9480 7085,9120 6815,9215 6815,9386z"/>
+</clipPath>
+</defs>
+<polyline points=" 7500,9300 6900,9300" clip-path="url(#cp2)"
+	stroke="#87cfff" stroke-width="165px"/>
+<!-- Forward arrow to point 6900,9300 -->
+<polygon points=" 7085,9120 6905,9300 7085,9480 7085,9120"
+	stroke="#87cfff" stroke-width="8px" stroke-miterlimit="8" fill="#87cfff"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp3">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 10685,9180 10685,8820 10415,8915 10415,9086z"/>
+</clipPath>
+</defs>
+<polyline points=" 11400,9000 10500,9000" clip-path="url(#cp3)"
+	stroke="#87cfff" stroke-width="165px"/>
+<!-- Forward arrow to point 10500,9000 -->
+<polygon points=" 10685,8820 10505,9000 10685,9180 10685,8820"
+	stroke="#87cfff" stroke-width="8px" stroke-miterlimit="8" fill="#87cfff"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp4">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 11215,4620 11215,4980 11486,4886 11486,4715z"/>
+</clipPath>
+</defs>
+<polyline points=" 10500,4800 11400,4800" clip-path="url(#cp4)"
+	stroke="#87cfff" stroke-width="165px"/>
+<!-- Forward arrow to point 11400,4800 -->
+<polygon points=" 11215,4980 11395,4800 11215,4620 11215,4980"
+	stroke="#87cfff" stroke-width="8px" stroke-miterlimit="8" fill="#87cfff"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp5">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 9715,4320 9715,4680 9986,4586 9986,4415z"/>
+</clipPath>
+</defs>
+<polyline points=" 9300,4500 9900,4500" clip-path="url(#cp5)"
+	stroke="#87cfff" stroke-width="165px"/>
+<!-- Forward arrow to point 9900,4500 -->
+<polygon points=" 9715,4680 9895,4500 9715,4320 9715,4680"
+	stroke="#87cfff" stroke-width="8px" stroke-miterlimit="8" fill="#87cfff"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp6">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 9715,4920 9715,5280 9986,5186 9986,5015z"/>
+</clipPath>
+</defs>
+<polyline points=" 6900,4800 7500,4800 7800,5100 9900,5100" clip-path="url(#cp6)"
+	stroke="#87cfff" stroke-width="165px"/>
+<!-- Forward arrow to point 9900,5100 -->
+<polygon points=" 9715,5280 9895,5100 9715,4920 9715,5280"
+	stroke="#87cfff" stroke-width="8px" stroke-miterlimit="8" fill="#87cfff"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp7">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 6115,4620 6115,4980 6386,4886 6386,4715z"/>
+</clipPath>
+</defs>
+<polyline points=" 5100,4800 6300,4800" clip-path="url(#cp7)"
+	stroke="#87cfff" stroke-width="165px"/>
+<!-- Forward arrow to point 6300,4800 -->
+<polygon points=" 6115,4980 6295,4800 6115,4620 6115,4980"
+	stroke="#87cfff" stroke-width="8px" stroke-miterlimit="8" fill="#87cfff"/>
+<!-- Text -->
+<text xml:space="preserve" x="10950" y="4650" fill="#87cfff" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="120" text-anchor="middle">DMI</text>
+<!-- Text -->
+<text xml:space="preserve" x="10950" y="9270" fill="#87cfff" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="120" text-anchor="middle">DMI</text>
+<!-- Line -->
+<rect x="7650" y="6000" width="1500" height="600" fill="#ffe0e0"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="7650" y="7200" width="1500" height="600" fill="#ffe0e0"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9900" y="7200" width="600" height="600" fill="#ffffcc"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9750" y="6000" width="900" height="600" fill="#ffffcc"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9900" y="8400" width="600" height="1200" fill="#ffffcc"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="5700" y="6600" width="600" height="600" fill="#ffffcc"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="6300" y="4200" width="600" height="1200" fill="#ffffcc"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polygon points=" 9900,4200 9900,5400 10500,5100 10500,4500" fill="#ffffff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polygon points=" 6900,8400 6900,9600 6300,9300 6300,8700" fill="#ffffff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="4500" y="4500" width="600" height="4800" fill="#ffffff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Text -->
+<text xml:space="preserve" x="8400" y="6525" fill="#000000" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">SYNCHRONIZER</text>
+<!-- Text -->
+<text xml:space="preserve" x="8400" y="6300" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="216" text-anchor="middle">CDC</text>
+<!-- Line -->
+<defs>
+<clipPath id="cp8">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 8989,6168 8989,6228 9082,6205 9082,6191z"/>
+</clipPath>
+</defs>
+<polyline points=" 8775,6198 9075,6198" clip-path="url(#cp8)"
+	stroke="#d10000" stroke-width="8px"/>
+<!-- Forward arrow to point 9075,6198 -->
+<polygon points=" 8989,6228 9064,6198 8989,6168 8989,6228"
+	stroke="#d10000" stroke-width="8px" stroke-miterlimit="8" fill="#d10000"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp9">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 7939,6168 7939,6228 8032,6205 8032,6191z"/>
+</clipPath>
+</defs>
+<polyline points=" 7725,6198 8025,6198" clip-path="url(#cp9)"
+	stroke="#d10000" stroke-width="8px"/>
+<!-- Forward arrow to point 8025,6198 -->
+<polygon points=" 7939,6228 8014,6198 7939,6168 7939,6228"
+	stroke="#d10000" stroke-width="8px" stroke-miterlimit="8" fill="#d10000"/>
+<!-- Text -->
+<text xml:space="preserve" x="8400" y="7725" fill="#000000" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">SYNCHRONIZER</text>
+<!-- Text -->
+<text xml:space="preserve" x="8400" y="7500" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="216" text-anchor="middle">CDC</text>
+<!-- Line -->
+<defs>
+<clipPath id="cp10">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 7811,7428 7811,7368 7718,7391 7718,7405z"/>
+</clipPath>
+</defs>
+<polyline points=" 8025,7398 7725,7398" clip-path="url(#cp10)"
+	stroke="#d10000" stroke-width="8px"/>
+<!-- Forward arrow to point 7725,7398 -->
+<polygon points=" 7811,7368 7736,7398 7811,7428 7811,7368"
+	stroke="#d10000" stroke-width="8px" stroke-miterlimit="8" fill="#d10000"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp11">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 8861,7428 8861,7368 8768,7391 8768,7405z"/>
+</clipPath>
+</defs>
+<polyline points=" 9075,7398 8775,7398" clip-path="url(#cp11)"
+	stroke="#d10000" stroke-width="8px"/>
+<!-- Forward arrow to point 8775,7398 -->
+<polygon points=" 8861,7368 8786,7398 8861,7428 8861,7368"
+	stroke="#d10000" stroke-width="8px" stroke-miterlimit="8" fill="#d10000"/>
+<!-- Text -->
+<text xml:space="preserve" x="10200" y="7350" fill="#d10000" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="120" text-anchor="middle">R</text>
+<!-- Text -->
+<text xml:space="preserve" x="10200" y="7770" fill="#d10000" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="120" text-anchor="middle">S</text>
+<!-- Text -->
+<text xml:space="preserve" x="10200" y="7575" fill="#000000" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">F/F</text>
+<!-- Text -->
+<text xml:space="preserve" x="10200" y="6375" fill="#000000" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">EDGE DET</text>
+<!-- Text -->
+<g transform="translate(10275,9000) rotate(-90)" >
+<text xml:space="preserve" x="0" y="0" fill="#000000" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">REGISTER</text>
+</g><!-- Text -->
+<text xml:space="preserve" x="10200" y="8550" fill="#d10000" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="120" text-anchor="middle">E</text>
+<!-- Text -->
+<text xml:space="preserve" x="6000" y="6750" fill="#d10000" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="120" text-anchor="middle">E</text>
+<!-- Text -->
+<text xml:space="preserve" x="6000" y="7170" fill="#d10000" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="120" text-anchor="middle">R</text>
+<!-- Text -->
+<text xml:space="preserve" x="6000" y="6975" fill="#000000" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">F/F</text>
+<!-- Text -->
+<g transform="translate(6675,4800) rotate(-90)" >
+<text xml:space="preserve" x="0" y="0" fill="#000000" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">REGISTER</text>
+</g><!-- Text -->
+<text xml:space="preserve" x="6600" y="5370" fill="#d10000" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="120" text-anchor="middle">E</text>
+<!-- Line -->
+<rect x="7500" y="9075" width="600" height="450" rx="105"
+	stroke="#87cfff" stroke-width="45px"/>
+<!-- Line -->
+<rect x="8700" y="4275" width="600" height="450" rx="105"
+	stroke="#87cfff" stroke-width="45px"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp12">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 9650,6263 9650,6338 9761,6311 9761,6290z"/>
+</clipPath>
+</defs>
+<polyline points=" 9150,6300 9750,6300" clip-path="url(#cp12)"
+	stroke="#777777" stroke-width="15px"/>
+<!-- Forward arrow to point 9750,6300 -->
+<polygon points=" 9650,6338 9740,6300 9650,6263 9650,6338"
+	stroke="#777777" stroke-width="8px" stroke-miterlimit="8" fill="#777777"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp13">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 7550,6263 7550,6338 7661,6311 7661,6290z"/>
+</clipPath>
+</defs>
+<polyline points=" 6300,6900 6600,6900 6600,6300 7650,6300" clip-path="url(#cp13)"
+	stroke="#777777" stroke-width="15px"/>
+<!-- Forward arrow to point 7650,6300 -->
+<polygon points=" 7550,6338 7640,6300 7550,6263 7550,6338"
+	stroke="#777777" stroke-width="8px" stroke-miterlimit="8" fill="#777777"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp14">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 9250,7538 9250,7463 9140,7490 9140,7511z"/>
+</clipPath>
+</defs>
+<polyline points=" 9900,7500 9150,7500" clip-path="url(#cp14)"
+	stroke="#777777" stroke-width="15px"/>
+<!-- Forward arrow to point 9150,7500 -->
+<polygon points=" 9250,7463 9160,7500 9250,7538 9250,7463"
+	stroke="#777777" stroke-width="8px" stroke-miterlimit="8" fill="#777777"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp15">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 6638,8450 6563,8450 6590,8561 6611,8561z"/>
+</clipPath>
+</defs>
+<polyline points=" 6600,6900 6600,8550" clip-path="url(#cp15)"
+	stroke="#777777" stroke-width="15px"/>
+<!-- Forward arrow to point 6600,8550 -->
+<polygon points=" 6563,8450 6600,8540 6638,8450 6563,8450"
+	stroke="#777777" stroke-width="8px" stroke-miterlimit="8" fill="#777777"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp16">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 5963,7300 6038,7300 6011,7190 5990,7190z"/>
+</clipPath>
+</defs>
+<polyline points=" 7650,7500 6000,7500 6000,7200" clip-path="url(#cp16)"
+	stroke="#ff4400" stroke-width="15px"/>
+<!-- Forward arrow to point 6000,7200 -->
+<polygon points=" 6038,7300 6000,7210 5963,7300 6038,7300"
+	stroke="#ff4400" stroke-width="8px" stroke-miterlimit="8" fill="#ff4400"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp17">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 10238,7100 10163,7100 10190,7211 10211,7211z"/>
+</clipPath>
+</defs>
+<polyline points=" 10200,6600 10200,7200" clip-path="url(#cp17)"
+	stroke="#ff4400" stroke-width="15px"/>
+<!-- Forward arrow to point 10200,7200 -->
+<polygon points=" 10163,7100 10200,7190 10238,7100 10163,7100"
+	stroke="#ff4400" stroke-width="8px" stroke-miterlimit="8" fill="#ff4400"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp18">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 10163,5350 10238,5350 10211,5240 10190,5240z"/>
+</clipPath>
+</defs>
+<polyline points=" 10200,6000 10200,5250" clip-path="url(#cp18)"
+	stroke="#ff4400" stroke-width="15px"/>
+<!-- Forward arrow to point 10200,5250 -->
+<polygon points=" 10238,5350 10200,5260 10163,5350 10238,5350"
+	stroke="#ff4400" stroke-width="8px" stroke-miterlimit="8" fill="#ff4400"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp19">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 10163,7900 10238,7900 10211,7790 10190,7790z"/>
+</clipPath>
+</defs>
+<polyline points=" 10950,8925 10950,8100 10200,8100 10200,7800" clip-path="url(#cp19)"
+	stroke="#ff4400" stroke-width="15px"/>
+<!-- Forward arrow to point 10200,7800 -->
+<polygon points=" 10238,7900 10200,7810 10163,7900 10238,7900"
+	stroke="#ff4400" stroke-width="8px" stroke-miterlimit="8" fill="#ff4400"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp20">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 10238,8300 10163,8300 10190,8411 10211,8411z"/>
+</clipPath>
+</defs>
+<polyline points=" 10200,8100 10200,8400" clip-path="url(#cp20)"
+	stroke="#ff4400" stroke-width="15px"/>
+<!-- Forward arrow to point 10200,8400 -->
+<polygon points=" 10163,8300 10200,8390 10238,8300 10163,8300"
+	stroke="#ff4400" stroke-width="8px" stroke-miterlimit="8" fill="#ff4400"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp21">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 4838,4400 4763,4400 4790,4511 4811,4511z"/>
+</clipPath>
+</defs>
+<polyline points=" 4800,4200 4800,4500" clip-path="url(#cp21)"
+	stroke="#777777" stroke-width="15px"/>
+<!-- Forward arrow to point 4800,4500 -->
+<polygon points=" 4763,4400 4800,4490 4838,4400 4763,4400"
+	stroke="#777777" stroke-width="8px" stroke-miterlimit="8" fill="#777777"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp22">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 4838,9500 4763,9500 4790,9611 4811,9611z"/>
+</clipPath>
+</defs>
+<polyline points=" 4800,9300 4800,9600" clip-path="url(#cp22)"
+	stroke="#777777" stroke-width="15px"/>
+<!-- Forward arrow to point 4800,9600 -->
+<polygon points=" 4763,9500 4800,9590 4838,9500 4763,9500"
+	stroke="#777777" stroke-width="8px" stroke-miterlimit="8" fill="#777777"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp23">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 5600,6863 5600,6938 5711,6911 5711,6890z"/>
+</clipPath>
+</defs>
+<polyline points=" 5400,4875 5400,6900 5700,6900" clip-path="url(#cp23)"
+	stroke="#777777" stroke-width="15px"/>
+<!-- Forward arrow to point 5700,6900 -->
+<polygon points=" 5600,6938 5690,6900 5600,6863 5600,6938"
+	stroke="#777777" stroke-width="8px" stroke-miterlimit="8" fill="#777777"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp24">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 6563,5500 6638,5500 6611,5390 6590,5390z"/>
+</clipPath>
+</defs>
+<polyline points=" 5700,6000 6600,6000 6600,5400" clip-path="url(#cp24)"
+	stroke="#ff4400" stroke-width="15px"/>
+<!-- Forward arrow to point 6600,5400 -->
+<polygon points=" 6638,5500 6600,5410 6563,5500 6638,5500"
+	stroke="#ff4400" stroke-width="8px" stroke-miterlimit="8" fill="#ff4400"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp25">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 6038,6500 5963,6500 5990,6611 6011,6611z"/>
+</clipPath>
+</defs>
+<polyline points=" 6000,6000 6000,6600" clip-path="url(#cp25)"
+	stroke="#ff4400" stroke-width="15px"/>
+<!-- Forward arrow to point 6000,6600 -->
+<polygon points=" 5963,6500 6000,6590 6038,6500 5963,6500"
+	stroke="#ff4400" stroke-width="8px" stroke-miterlimit="8" fill="#ff4400"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp26">
+	<path clip-rule="evenodd" d="M 4488,3856 H 11528 V 9869 H 4488 z
+		M 5200,8438 5200,8363 5090,8390 5090,8411z"/>
+</clipPath>
+</defs>
+<polyline points=" 6000,8400 5100,8400" clip-path="url(#cp26)"
+	stroke="#ff4400" stroke-width="15px"/>
+<!-- Forward arrow to point 5100,8400 -->
+<polygon points=" 5200,8363 5110,8400 5200,8438 5200,8363"
+	stroke="#ff4400" stroke-width="8px" stroke-miterlimit="8" fill="#ff4400"/>
+<!-- Text -->
+<text xml:space="preserve" x="10200" y="6150" fill="#d10000" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="120" text-anchor="middle">rise</text>
+<!-- Text -->
+<text xml:space="preserve" x="10200" y="6570" fill="#d10000" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="120" text-anchor="middle">fall</text>
+<!-- Text -->
+<text xml:space="preserve" x="9975" y="4575" fill="#777777" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">0</text>
+<!-- Text -->
+<text xml:space="preserve" x="9975" y="5175" fill="#777777" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">1</text>
+<!-- Text -->
+<text xml:space="preserve" x="9000" y="4575" fill="#0000ff" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">NOP</text>
+<!-- Text -->
+<text xml:space="preserve" x="7800" y="9375" fill="#0000ff" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">ERR</text>
+<!-- Text -->
+<text xml:space="preserve" x="6825" y="8775" fill="#777777" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">0</text>
+<!-- Text -->
+<text xml:space="preserve" x="6825" y="9375" fill="#777777" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">1</text>
+<!-- Text -->
+<g transform="translate(4875,6900) rotate(-90)" >
+<text xml:space="preserve" x="0" y="0" fill="#000000" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">JTAG "dmi" SHIFT REGISTER</text>
+</g><!-- Text -->
+<text xml:space="preserve" x="6000" y="5925" fill="#ff4400" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="120" text-anchor="middle">UPDATE</text>
+<!-- Text -->
+<text xml:space="preserve" x="6000" y="8325" fill="#ff4400" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="120" text-anchor="middle">CAPTURE</text>
+<!-- Text -->
+<text xml:space="preserve" x="4800" y="4125" fill="#777777" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="120" text-anchor="middle">TDI</text>
+<!-- Text -->
+<text xml:space="preserve" x="4800" y="9750" fill="#777777" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="120" text-anchor="middle">TDO</text>
+<!-- Text -->
+<text xml:space="preserve" x="8550" y="4125" fill="#00b000" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">CPU clock domain</text>
+<!-- Text -->
+<text xml:space="preserve" x="8250" y="4125" fill="#00b000" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="120" text-anchor="end">TCK clock domain</text>
+<!-- Text -->
+<text xml:space="preserve" x="6600" y="4125" fill="#777777" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="120" text-anchor="middle">req</text>
+<!-- Text -->
+<text xml:space="preserve" x="10200" y="9750" fill="#777777" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="120" text-anchor="middle">rsp</text>
+<!-- Text -->
+<text xml:space="preserve" x="7125" y="6225" fill="#777777" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="120" text-anchor="middle">BUSY</text>
+<!-- Text -->
+<g transform="translate(5325,5400) rotate(-90)" >
+<text xml:space="preserve" x="0" y="0" fill="#777777" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="120" text-anchor="middle">RD or WR</text>
+</g><!-- Text -->
+<g transform="translate(10875,8550) rotate(-90)" >
+<text xml:space="preserve" x="0" y="0" fill="#ff4400" font-family="Helvetica Narrow" font-style="normal" font-weight="normal" font-size="120" text-anchor="middle">ACK</text>
+</g></g>
+</svg>
